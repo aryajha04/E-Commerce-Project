@@ -1,0 +1,5 @@
+discount_band,sku_weeks,units_index_vs_no_discount,margin_pct,margin_inr_per_baseline_unit
+0. No discount,396,1.00,26.0,34.0
+1. 5-10%,90,1.42,20.7,35.6
+2. 15-20%,49,2.33,5.8,16.7
+3. 25%,5,3.20,-2.7,-16.0

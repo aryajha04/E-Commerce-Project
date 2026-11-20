@@ -1,0 +1,5 @@
+grp,period,reckitt_share_pct,reckitt_sales_per_week
+Control,During pilot,15.63,331921
+Control,Before,17.06,302390
+Test,During pilot,18.80,175011
+Test,Before,17.24,127512

@@ -1,0 +1,43 @@
+store_id,store_name,city,area,opened_date,size_sqft
+1,DS-DEL-01,Delhi NCR,Sector 65 Gurugram,2024-03-12,3000
+2,DS-DEL-02,Delhi NCR,Saket,2025-09-11,4000
+3,DS-DEL-03,Delhi NCR,Dwarka,2024-03-09,2500
+4,DS-DEL-04,Delhi NCR,Noida Sec 62,2025-07-11,4500
+5,DS-DEL-05,Delhi NCR,Rohini,2025-08-11,4000
+6,DS-DEL-06,Delhi NCR,Lajpat Nagar,2025-08-31,2500
+7,DS-DEL-07,Delhi NCR,Vasant Kunj,2025-11-02,3000
+8,DS-DEL-08,Delhi NCR,Indirapuram,2024-12-26,4500
+9,DS-DEL-09,Delhi NCR,Golf Course Rd,2025-09-17,4000
+10,DS-DEL-10,Delhi NCR,Janakpuri,2025-05-30,3000
+11,DS-DEL-11,Delhi NCR,Mayur Vihar,2024-12-26,3500
+12,DS-DEL-12,Delhi NCR,Sohna Rd,2024-06-30,2500
+13,DS-MUM-01,Mumbai,Andheri West,2025-11-17,3500
+14,DS-MUM-02,Mumbai,Bandra,2025-10-24,4000
+15,DS-MUM-03,Mumbai,Powai,2025-07-14,4500
+16,DS-MUM-04,Mumbai,Thane,2024-10-10,4000
+17,DS-MUM-05,Mumbai,Borivali,2025-06-26,3000
+18,DS-MUM-06,Mumbai,Worli,2025-09-14,3500
+19,DS-MUM-07,Mumbai,Malad,2025-02-02,3000
+20,DS-MUM-08,Mumbai,Navi Mumbai,2024-02-05,3500
+21,DS-MUM-09,Mumbai,Chembur,2026-01-08,4500
+22,DS-MUM-10,Mumbai,Goregaon,2025-08-18,3000
+23,DS-BEN-01,Bengaluru,Koramangala,2025-12-25,3500
+24,DS-BEN-02,Bengaluru,Indiranagar,2024-10-23,3000
+25,DS-BEN-03,Bengaluru,HSR Layout,2025-01-05,3500
+26,DS-BEN-04,Bengaluru,Whitefield,2024-04-13,3000
+27,DS-BEN-05,Bengaluru,Jayanagar,2025-03-27,3000
+28,DS-BEN-06,Bengaluru,Marathahalli,2025-06-19,4000
+29,DS-BEN-07,Bengaluru,Electronic City,2025-05-18,3000
+30,DS-BEN-08,Bengaluru,Hebbal,2025-07-14,4000
+31,DS-BEN-09,Bengaluru,BTM Layout,2024-12-14,3000
+32,DS-BEN-10,Bengaluru,Yelahanka,2025-10-05,3000
+33,DS-HYD-01,Hyderabad,Gachibowli,2024-07-10,2500
+34,DS-HYD-02,Hyderabad,Madhapur,2025-06-29,3000
+35,DS-HYD-03,Hyderabad,Banjara Hills,2025-10-05,4000
+36,DS-HYD-04,Hyderabad,Kondapur,2024-01-06,3500
+37,DS-HYD-05,Hyderabad,Kukatpally,2025-01-12,4000
+38,DS-PUN-01,Pune,Kothrud,2025-07-18,3500
+39,DS-PUN-02,Pune,Viman Nagar,2025-02-08,2500
+40,DS-PUN-03,Pune,Hinjewadi,2025-03-30,2500
+41,DS-PUN-04,Pune,Baner,2024-12-17,3500
+42,DS-PUN-05,Pune,Magarpatta,2025-06-18,3500

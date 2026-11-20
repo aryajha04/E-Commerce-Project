@@ -1,0 +1,61 @@
+sku_id,product_name,category,brand,company,brand_type,mrp,unit_cost,shelf_life_days,is_perishable
+1,Dove Soap 3x100g,Personal Care,Dove,HUL,Big FMCG,165,127.05,0,False
+2,Lifebuoy Handwash 190ml,Personal Care,Lifebuoy,HUL,Big FMCG,99,75.24,0,False
+3,Clinic Plus Shampoo 340ml,Personal Care,Clinic Plus,HUL,Big FMCG,210,157.5,0,False
+4,Dettol Soap 3x125g,Personal Care,Dettol,Reckitt,Big FMCG,150,115.5,0,False
+5,Dettol Liquid Handwash 200ml,Personal Care,Dettol,Reckitt,Big FMCG,99,75.24,0,False
+6,Dettol Antiseptic Liquid 250ml,Personal Care,Dettol,Reckitt,Big FMCG,150,117.0,0,False
+7,Dabur Red Toothpaste 200g,Personal Care,Dabur,Dabur,Big FMCG,125,95.0,0,False
+8,Head & Shoulders Shampoo 340ml,Personal Care,Head & Shoulders,P&G,Big FMCG,355,273.35,0,False
+9,Parachute Coconut Oil 500ml,Personal Care,Parachute,Marico,Big FMCG,230,179.4,0,False
+10,Store Brand Handwash 250ml,Personal Care,Store Brand,Store Brand,Own label,79,43.45,0,False
+11,Surf Excel Detergent 1kg,Home Care,Surf Excel,HUL,Big FMCG,235,180.95,0,False
+12,Vim Dishwash Liquid 500ml,Home Care,Vim,HUL,Big FMCG,115,87.4,0,False
+13,Harpic Toilet Cleaner 500ml,Home Care,Harpic,Reckitt,Big FMCG,105,80.85,0,False
+14,Lizol Floor Cleaner 975ml,Home Care,Lizol,Reckitt,Big FMCG,215,163.4,0,False
+15,Colin Glass Cleaner 500ml,Home Care,Colin,Reckitt,Big FMCG,95,73.15,0,False
+16,Mortein Mosquito Spray 425ml,Home Care,Mortein,Reckitt,Big FMCG,199,153.23,0,False
+17,Ariel Detergent 2kg,Home Care,Ariel,P&G,Big FMCG,520,405.6,0,False
+18,Tide Detergent 1kg,Home Care,Tide,P&G,Big FMCG,125,97.5,0,False
+19,Store Brand Detergent 1kg,Home Care,Store Brand,Store Brand,Own label,109,63.22,0,False
+20,Store Brand Toilet Cleaner 500ml,Home Care,Store Brand,Store Brand,Own label,72,39.6,0,False
+21,Store Brand Floor Cleaner 1L,Home Care,Store Brand,Store Brand,Own label,129,72.24,0,False
+22,Maggi Noodles 12-pack,Packaged Food,Maggi,Nestle India,Big FMCG,168,132.72,0,False
+23,Nescafe Classic 50g,Packaged Food,Nescafe,Nestle India,Big FMCG,185,144.3,0,False
+24,KitKat 4-pack,Packaged Food,KitKat,Nestle India,Big FMCG,90,69.3,0,False
+25,Aashirvaad Atta 5kg,Packaged Food,Aashirvaad,ITC,Big FMCG,285,228.0,0,False
+26,Sunfeast Dark Fantasy 300g,Packaged Food,Sunfeast,ITC,Big FMCG,135,102.6,0,False
+27,Yippee Noodles 4-pack,Packaged Food,Yippee,ITC,Big FMCG,60,46.2,0,False
+28,Tata Salt 1kg,Packaged Food,Tata Salt,Tata Consumer,Big FMCG,28,22.96,0,False
+29,Tata Sampann Toor Dal 1kg,Packaged Food,Tata Sampann,Tata Consumer,Big FMCG,190,155.8,0,False
+30,Saffola Gold Oil 1L,Packaged Food,Saffola,Marico,Big FMCG,210,168.0,0,False
+31,Britannia Good Day 600g,Packaged Food,Good Day,Britannia,Big FMCG,120,91.2,0,False
+32,Britannia Marie Gold 500g,Packaged Food,Marie Gold,Britannia,Big FMCG,55,42.35,0,False
+33,Dabur Honey 250g,Packaged Food,Dabur,Dabur,Big FMCG,200,154.0,0,False
+34,Store Brand Atta 5kg,Packaged Food,Store Brand,Store Brand,Own label,245,166.6,0,False
+35,Store Brand Toor Dal 1kg,Packaged Food,Store Brand,Store Brand,Own label,165,115.5,0,False
+36,Store Brand Sunflower Oil 1L,Packaged Food,Store Brand,Store Brand,Own label,150,114.0,0,False
+37,Amul Taaza Milk 1L,Dairy & Bakery,Amul,Amul,Big FMCG,68,61.2,3,True
+38,Amul Dahi 400g,Dairy & Bakery,Amul,Amul,Big FMCG,45,36.9,5,True
+39,Amul Paneer 200g,Dairy & Bakery,Amul,Amul,Big FMCG,95,77.9,6,True
+40,Amul Butter 500g,Dairy & Bakery,Amul,Amul,Big FMCG,285,245.1,90,False
+41,Amul Cheese Slices 200g,Dairy & Bakery,Amul,Amul,Big FMCG,130,109.2,90,False
+42,Britannia Bread 400g,Dairy & Bakery,Britannia,Britannia,Big FMCG,50,40.0,4,True
+43,Store Brand Eggs 12,Dairy & Bakery,Store Brand,Store Brand,Own label,110,88.0,10,True
+44,Store Brand Curd 400g,Dairy & Bakery,Store Brand,Store Brand,Own label,40,28.0,5,True
+45,Red Label Tea 500g,Beverages,Red Label,HUL,Big FMCG,290,226.2,0,False
+46,Bru Instant Coffee 100g,Beverages,Bru,HUL,Big FMCG,330,257.4,0,False
+47,Tata Tea Gold 500g,Beverages,Tata Tea,Tata Consumer,Big FMCG,310,244.9,0,False
+48,Real Fruit Juice 1L,Beverages,Real,Dabur,Big FMCG,115,88.55,0,False
+49,Store Brand Tea 500g,Beverages,Store Brand,Store Brand,Own label,235,155.1,0,False
+50,Bingo Mad Angles 80g,Snacks,Bingo,ITC,Big FMCG,20,15.2,0,False
+51,Kurkure Masala Munch 90g,Snacks,Kurkure,PepsiCo,Big FMCG,20,15.2,0,False
+52,Lays Classic Salted 52g,Snacks,Lays,PepsiCo,Big FMCG,20,15.2,0,False
+53,Haldiram Bhujia 400g,Snacks,Haldiram,Haldiram's,Big FMCG,110,82.5,0,False
+54,Store Brand Namkeen 400g,Snacks,Store Brand,Store Brand,Own label,85,51.0,0,False
+55,Banana 1 dozen,Fruits & Vegetables,Store Brand,Store Brand,Own label,69,42.78,3,True
+56,Tomato 500g,Fruits & Vegetables,Store Brand,Store Brand,Own label,35,21.0,3,True
+57,Onion 1kg,Fruits & Vegetables,Store Brand,Store Brand,Own label,45,29.25,10,True
+58,Potato 1kg,Fruits & Vegetables,Store Brand,Store Brand,Own label,40,26.0,10,True
+59,Apple 4 pcs,Fruits & Vegetables,Store Brand,Store Brand,Own label,120,79.2,6,True
+60,Coriander Bunch,Fruits & Vegetables,Store Brand,Store Brand,Own label,15,8.25,2,True

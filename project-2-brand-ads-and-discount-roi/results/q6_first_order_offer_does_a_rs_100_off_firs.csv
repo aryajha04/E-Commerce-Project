@@ -1,0 +1,3 @@
+offer_group,customers,avg_first_order_inr,repeat_within_30d_pct,repeat_orders_per_customer,spend_per_customer_30d_inr
+first_order_offer,1301,392,83.8,2.54,1576
+no_offer,542,452,88.7,3.18,1937

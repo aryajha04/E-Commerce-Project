@@ -1,0 +1,22 @@
+campaign_id,company,ad_type,campaign_name,start_date,end_date
+1,HUL,Search,HUL Search Always-on,2026-08-31,2026-11-01
+2,HUL,Banner,HUL Banner Always-on,2026-08-31,2026-11-01
+3,Reckitt,Search,Reckitt Search Always-on,2026-08-31,2026-11-01
+4,Reckitt,Banner,Reckitt Banner Always-on,2026-08-31,2026-11-01
+5,ITC,Search,ITC Search Always-on,2026-08-31,2026-11-01
+6,ITC,Banner,ITC Banner Always-on,2026-08-31,2026-11-01
+7,Nestle India,Search,Nestle India Search Always-on,2026-08-31,2026-11-01
+8,Nestle India,Banner,Nestle India Banner Always-on,2026-08-31,2026-11-01
+9,Dabur,Search,Dabur Search Always-on,2026-08-31,2026-11-01
+10,Dabur,Banner,Dabur Banner Always-on,2026-08-31,2026-11-01
+11,P&G,Search,P&G Search Always-on,2026-08-31,2026-11-01
+12,P&G,Banner,P&G Banner Always-on,2026-08-31,2026-11-01
+13,Marico,Search,Marico Search Always-on,2026-08-31,2026-11-01
+14,Marico,Banner,Marico Banner Always-on,2026-08-31,2026-11-01
+15,Tata Consumer,Search,Tata Consumer Search Always-on,2026-08-31,2026-11-01
+16,Tata Consumer,Banner,Tata Consumer Banner Always-on,2026-08-31,2026-11-01
+17,Britannia,Search,Britannia Search Always-on,2026-08-31,2026-11-01
+18,Britannia,Banner,Britannia Banner Always-on,2026-08-31,2026-11-01
+19,PepsiCo,Search,PepsiCo Search Always-on,2026-08-31,2026-11-01
+20,PepsiCo,Banner,PepsiCo Banner Always-on,2026-08-31,2026-11-01
+21,Reckitt,Search,Reckitt Dettol Search Pilot,2026-08-31,2026-11-01

@@ -1,0 +1,61 @@
+product_name,category,brand_type,sales_inr,cumulative_pct,abc_class
+Britannia Bread 400g,Dairy & Bakery,Big FMCG,1798465,7.0,A
+Dettol Soap 3x125g,Personal Care,Big FMCG,1270800,12.0,A
+Amul Taaza Milk 1L,Dairy & Bakery,Big FMCG,1196188,16.7,A
+Surf Excel Detergent 1kg,Home Care,Big FMCG,1081987,20.9,A
+Apple 4 pcs,Fruits & Vegetables,Own label,972216,24.7,A
+Amul Cheese Slices 200g,Dairy & Bakery,Big FMCG,956846,28.5,A
+Dettol Liquid Handwash 200ml,Personal Care,Big FMCG,934689,32.1,A
+Head & Shoulders Shampoo 340ml,Personal Care,Big FMCG,791260,35.2,A
+Aashirvaad Atta 5kg,Packaged Food,Big FMCG,682789,37.9,A
+Tide Detergent 1kg,Home Care,Big FMCG,678150,40.6,A
+Real Fruit Juice 1L,Beverages,Big FMCG,678103,43.2,A
+Saffola Gold Oil 1L,Packaged Food,Big FMCG,661962,45.8,A
+Lizol Floor Cleaner 975ml,Home Care,Big FMCG,650268,48.4,A
+Ariel Detergent 2kg,Home Care,Big FMCG,649532,50.9,A
+Amul Paneer 200g,Dairy & Bakery,Big FMCG,570328,53.1,A
+Britannia Good Day 600g,Packaged Food,Big FMCG,559536,55.3,A
+Dabur Honey 250g,Packaged Food,Big FMCG,546790,57.5,A
+Dove Soap 3x100g,Personal Care,Big FMCG,538247,59.6,A
+Store Brand Eggs 12,Dairy & Bakery,Own label,537713,61.7,A
+Store Brand Sunflower Oil 1L,Packaged Food,Own label,468503,63.5,A
+Tata Tea Gold 500g,Beverages,Big FMCG,462334,65.3,A
+Mortein Mosquito Spray 425ml,Home Care,Big FMCG,454735,67.1,A
+Tata Sampann Toor Dal 1kg,Packaged Food,Big FMCG,443479,68.8,A
+Dettol Antiseptic Liquid 250ml,Personal Care,Big FMCG,415448,70.5,B
+Amul Butter 500g,Dairy & Bakery,Big FMCG,410115,72.1,B
+Store Brand Tea 500g,Beverages,Own label,368668,73.5,B
+Store Brand Toor Dal 1kg,Packaged Food,Own label,363495,74.9,B
+Store Brand Atta 5kg,Packaged Food,Own label,357357,76.3,B
+Banana 1 dozen,Fruits & Vegetables,Own label,355388,77.7,B
+Maggi Noodles 12-pack,Packaged Food,Big FMCG,348709,79.1,B
+Harpic Toilet Cleaner 500ml,Home Care,Big FMCG,345713,80.4,B
+Britannia Marie Gold 500g,Packaged Food,Big FMCG,344949,81.8,B
+Dabur Red Toothpaste 200g,Personal Care,Big FMCG,338156,83.1,B
+Colin Glass Cleaner 500ml,Home Care,Big FMCG,322577,84.4,B
+Parachute Coconut Oil 500ml,Personal Care,Big FMCG,276506,85.5,B
+Nescafe Classic 50g,Packaged Food,Big FMCG,264744,86.5,B
+Tomato 500g,Fruits & Vegetables,Own label,263011,87.5,B
+Bru Instant Coffee 100g,Beverages,Big FMCG,261195,88.5,B
+KitKat 4-pack,Packaged Food,Big FMCG,238554,89.5,B
+Vim Dishwash Liquid 500ml,Home Care,Big FMCG,233870,90.4,C
+Store Brand Namkeen 400g,Snacks,Own label,216410,91.2,C
+Clinic Plus Shampoo 340ml,Personal Care,Big FMCG,216038,92.1,C
+Haldiram Bhujia 400g,Snacks,Big FMCG,190328,92.8,C
+Store Brand Floor Cleaner 1L,Home Care,Own label,178730,93.5,C
+Store Brand Toilet Cleaner 500ml,Home Care,Own label,173596,94.2,C
+Store Brand Curd 400g,Dairy & Bakery,Own label,169000,94.9,C
+Yippee Noodles 4-pack,Packaged Food,Big FMCG,158415,95.5,C
+Red Label Tea 500g,Beverages,Big FMCG,147842,96.1,C
+Sunfeast Dark Fantasy 300g,Packaged Food,Big FMCG,141926,96.6,C
+Amul Dahi 400g,Dairy & Bakery,Big FMCG,121136,97.1,C
+Lays Classic Salted 52g,Snacks,Big FMCG,112338,97.5,C
+Lifebuoy Handwash 190ml,Personal Care,Big FMCG,108247,98.0,C
+Store Brand Handwash 250ml,Personal Care,Own label,107314,98.4,C
+Onion 1kg,Fruits & Vegetables,Own label,106902,98.8,C
+Potato 1kg,Fruits & Vegetables,Own label,83060,99.1,C
+Store Brand Detergent 1kg,Home Care,Own label,66839,99.4,C
+Tata Salt 1kg,Packaged Food,Big FMCG,52492,99.6,C
+Bingo Mad Angles 80g,Snacks,Big FMCG,43334,99.8,C
+Coriander Bunch,Fruits & Vegetables,Own label,31670,99.9,C
+Kurkure Masala Munch 90g,Snacks,Big FMCG,29442,100.0,C
