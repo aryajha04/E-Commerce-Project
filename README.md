@@ -1,7 +1,5 @@
 # Quick-Commerce Commercial Analytics (SQL, PostgreSQL)
 
-**Live project page (charts + every query and its output):** https://claude.ai/artifact/QAUuJS9byNAkb8b2qtCwue
-
 By Arya Jha, MBA 2025-27, Department of Management Studies, IIT Delhi.
 
 Two SQL projects on a **simulated** dark-store (10-minute delivery) business, built to show how I turn
