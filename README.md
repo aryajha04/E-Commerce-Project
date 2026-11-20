@@ -23,23 +23,6 @@ Each project folder has a `results/` folder with the real output of every query
 - Some patterns (for example "deeper discounts lift units" and "the Reckitt search-ad pilot lifts share")
   are built into the generator on purpose, so each analysis has something real to find.
   The skill on display is the **method**, not the numbers.
-
-## How to run (15 minutes)
-1. Install PostgreSQL 14+ (or use a free hosted one such as Supabase / Neon).
-2. `createdb quickcommerce`
-3. `cd 00_setup`
-4. `psql -d quickcommerce -f schema.sql`
-5. `psql -d quickcommerce -f load_data.sql`   (loads the CSVs in `data/`)
-6. Open `project-1-.../analysis.sql` or `project-2-.../analysis.sql` and run each query one by one.
-
-To rebuild the data from scratch: `python3 00_setup/generate_data.py` (needs numpy and pandas).
-
-## MySQL version
-The `mysql/` folder has the same project for MySQL 8.0+ (tested on MySQL 8.0):
-`01_create_database.sql`, `02_create_tables.sql`, `03_load_data.sql` (replace PATH_TO_FOLDER with your folder path),
-`04_project1_dark_stores.sql`, `05_project2_ads_discounts.sql`.
-Step-by-step guide: https://claude.ai/artifact/8LfCitDnhzMpdbhv3rsufD
-
 ## Tables
 `dark_stores` - `products` - `customers` - `orders` - `order_items` - `inventory_daily` - `ad_campaigns` - `ad_daily`
 (see comments inside `00_setup/schema.sql`).
